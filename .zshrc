@@ -126,3 +126,4 @@ autoload -Uz _zinit
 ### End of Zinit installer's chunk
 zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-completions
+zinit light zdharma/fast-syntax-highlighting
